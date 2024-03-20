@@ -1,0 +1,3 @@
+[submodule "orig_theme/OneCandy"]
+	path = orig_theme/OneCandy
+	url = https://github.com/KacperBiedka/OneCandy
